@@ -17,3 +17,8 @@ int main(){
        cin>>*p2;
        cout<<*p1 + *p2;
 }
+
+
+
+
+

@@ -7,5 +7,4 @@ int main(){
     float z = (float)y; // z = 9
     x = x - z;
     cout<<x;
-
 }
