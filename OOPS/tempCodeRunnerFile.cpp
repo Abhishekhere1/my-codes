@@ -1,12 +1,6 @@
-#include <iostream>
-using namespace std;
-
-class Student
-{
-    public:
-    string name;
-    int age, roll_number;
-    string grade;
-};
-
-int main()
+    // Customer(string name, int account_number, int balance)
+    // {
+    //     this->name = name;
+    //     this->account_number = account_number;
+    //     this->balance =  balance;
+    // }
