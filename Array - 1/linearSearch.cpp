@@ -19,7 +19,7 @@ int main(){
         if(arr[i] == x) flag = true;
     }
     if(flag == true ) 
-      cout<<" element found ";
+      cout<<" element found ";c
     else
       cout<<" 404 element not found ";
 }
