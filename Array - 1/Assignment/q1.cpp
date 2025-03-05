@@ -1,20 +1,13 @@
 /*Calculate the product of all the elements in the given array.*/
 
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
-    int n;
-    cout<<"enter size of array : ";
-    cin>>n;
-    int arr[n];
-    // input
-    for(int i = 0; i<=n-1 ; i++){
-        cin>>arr[i];
-    }
-    int product = 1;
-    for(int i = 0; i<=n-1; i++){
-        product = product*arr[i];
-    }
-    cout<<product;
-
+int main() {
+int arr[5]={1,2,3,4,5};
+int pdt = 1;
+for(int i=0;i<5;i++){
+pdt = pdt*arr[i];
+}
+cout<<pdt;
+return 0;
 }
