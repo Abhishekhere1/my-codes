@@ -1,2 +1,2 @@
 
-         cout<<r+x;
+        return 1; // Exit the program if n
