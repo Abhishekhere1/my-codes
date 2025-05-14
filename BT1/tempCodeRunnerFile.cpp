@@ -1,0 +1,1 @@
+  cout<size(a)<<endl;
